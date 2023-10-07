@@ -3,6 +3,9 @@ Intended to be used as a collection of useful everyday react concepts, patters, 
 
 # todos
 1. Add TypeScript support
-2. Add Portal definitions and examples
+2. ~~Add Portal definitions and examples~~
 3. Add more examples
-4. Change double quoted strings to single for imports
+4. ~~Change double quoted strings to single for imports~~
+5. Add Zustand and Mobx
+6. Add Unit Tests (jsdom?)
+7. Check spelling
